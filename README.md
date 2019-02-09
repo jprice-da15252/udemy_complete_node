@@ -1,1 +1,1 @@
-* This is my progress on the uedmy complete node course - 2nd ed.
+* This is my project I created for the Udemy complete node course - 2nd ed.
